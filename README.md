@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Hari 👋
 
-<!--
-**Hari23499/Hari23499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Developer preparing for SDE roles.
 
-Here are some ideas to get you started:
+I like building systems, not just UIs — APIs, databases, scalability, and clean architecture matter to me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** JavaScript, Python
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 🧠 Core Strengths
+- Data Structures & Algorithms
+- Low-Level Design (LLD)
+- REST API Design
+- Backend Architecture
+
+---
+
+## 🚀 Current Focus
+- Building backend-heavy real-world projects
+- Writing clean, readable, well-structured code
+- Daily problem-solving & consistent commits
+
+---
+
+## 📫 Connect
+- Email: harikrishnag41045@gmail.com
