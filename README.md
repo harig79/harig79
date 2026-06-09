@@ -14,7 +14,7 @@ Currently doing DSA daily on LeetCode and building projects that I'd actually us
 
 ## What I'm building right now
 
-### [JD-Match Resume Analyzer](https://github.com/harig79/jd-match-analyzer)
+### [JD-Match Resume Analyzer](https://github.com/harig79/jd-match-analyzer)(Under Development)
 A RAG tool that scores how well your resume matches a job description. Upload a resume PDF, paste a JD, get a match score + missing skills + rewritten bullet suggestions. Built because I was tired of guessing which skills I was missing when applying to jobs.
 
 `Python` `FastAPI` `sentence-transformers` `ChromaDB` `Groq API` `React`
